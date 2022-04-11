@@ -1,0 +1,39 @@
+.header_container {
+    width: auto;
+    margin: 0 auto;
+    height: 4rem;
+    background-color: rgb(48, 47, 53);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+span {
+    font-size: large;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    color: white;
+    cursor: pointer;
+    list-style: none;
+    padding: 5px 17px;
+    margin: 0 3vw;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+li:hover {
+    background-color: tomato;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

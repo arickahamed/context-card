@@ -1,0 +1,22 @@
+.cart_container {
+    text-align: center;
+}
+
+.product_container {
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cart_h {
+    width: 70%;
+    color: rgb(88, 87, 87);
+}
+
+.red {
+    color: rgb(89, 0, 255);
+    text-decoration: underline;
+    cursor: pointer;
+}

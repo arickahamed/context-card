@@ -1,0 +1,11 @@
+.home_container {
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.red {
+    color: red;
+}

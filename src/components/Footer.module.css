@@ -1,0 +1,7 @@
+.footer_container {
+    color: rgb(77, 75, 75);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 1rem;
+}
